@@ -10,9 +10,8 @@ we feed the generator input data and it generates both real and fake images.The 
 
 Iteration is at the forefront in this modell where, the generator get beter and better with evaluation of the discriminator.
 
-
-
-
+More infomation on restyle GAN encoder can be found here :
+https://arxiv.org/pdf/2104.02699.pdf
 
 
 
